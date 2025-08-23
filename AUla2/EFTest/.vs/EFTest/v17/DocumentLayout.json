@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\371153\\Downloads\\BD2\\AUla2\\EFTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|c:\\users\\371153\\downloads\\bd2\\aula2\\eftest\\eftest\\data\\schoolcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|solutionrelative:eftest\\data\\schoolcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|c:\\users\\371153\\downloads\\bd2\\aula2\\eftest\\eftest\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|solutionrelative:eftest\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|c:\\users\\371153\\downloads\\bd2\\aula2\\eftest\\eftest\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|solutionrelative:eftest\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|c:\\users\\371153\\downloads\\bd2\\aula2\\eftest\\eftest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|solutionrelative:eftest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|c:\\users\\371153\\downloads\\bd2\\aula2\\eftest\\eftest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +23,16 @@
       "RelativeMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|solutionrelative:eftest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|c:\\users\\371153\\downloads\\bd2\\aula2\\eftest\\eftest\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|solutionrelative:eftest\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|c:\\users\\371153\\downloads\\bd2\\aula2\\eftest\\eftest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|solutionrelative:eftest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|c:\\users\\371153\\downloads\\bd2\\aula2\\eftest\\eftest\\data\\schoolcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|solutionrelative:eftest\\data\\schoolcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|c:\\users\\371153\\downloads\\bd2\\aula2\\eftest\\eftest\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|solutionrelative:eftest\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDFFF5B1-08DF-4224-B43F-4AD15263F363}|EFTest\\EFTest.csproj|c:\\users\\371153\\downloads\\bd2\\aula2\\eftest\\eftest\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,8 +54,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\371153\\Downloads\\BD2\\AUla2\\EFTest\\EFTest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFTest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\371153\\Downloads\\BD2\\AUla2\\EFTest\\EFTest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EFTest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T23:17:24.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\371153\\Downloads\\BD2\\AUla2\\EFTest\\EFTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EFTest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\371153\\Downloads\\BD2\\AUla2\\EFTest\\EFTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EFTest\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T23:10:24.171Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -56,7 +90,7 @@
               "RelativeDocumentMoniker": "EFTest\\Program.cs",
               "ToolTip": "C:\\Users\\371153\\Downloads\\BD2\\AUla2\\EFTest\\EFTest\\Program.cs",
               "RelativeToolTip": "EFTest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-09T00:51:04.234Z",
               "EditorCaption": ""
@@ -69,7 +103,7 @@
               "RelativeDocumentMoniker": "EFTest\\appsettings.json",
               "ToolTip": "C:\\Users\\371153\\Downloads\\BD2\\AUla2\\EFTest\\EFTest\\appsettings.json",
               "RelativeToolTip": "EFTest\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAChAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-09T00:49:05Z",
               "EditorCaption": ""
@@ -89,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\371153\\Downloads\\BD2\\AUla2\\EFTest\\EFTest\\Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "EFTest\\Data\\DbInitializer.cs",
@@ -102,33 +136,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "SchoolContext .cs",
               "DocumentMoniker": "C:\\Users\\371153\\Downloads\\BD2\\AUla2\\EFTest\\EFTest\\Data\\SchoolContext .cs",
               "RelativeDocumentMoniker": "EFTest\\Data\\SchoolContext .cs",
               "ToolTip": "C:\\Users\\371153\\Downloads\\BD2\\AUla2\\EFTest\\EFTest\\Data\\SchoolContext .cs",
               "RelativeToolTip": "EFTest\\Data\\SchoolContext .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-09T00:41:43.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EFTest",
+              "DocumentIndex": 10,
+              "Title": "EFTest.csproj",
               "DocumentMoniker": "C:\\Users\\371153\\Downloads\\BD2\\AUla2\\EFTest\\EFTest\\EFTest.csproj",
               "RelativeDocumentMoniker": "EFTest\\EFTest.csproj",
               "ToolTip": "C:\\Users\\371153\\Downloads\\BD2\\AUla2\\EFTest\\EFTest\\EFTest.csproj",
               "RelativeToolTip": "EFTest\\EFTest.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-09T00:41:17.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T00:41:17.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\371153\\Downloads\\BD2\\AUla2\\EFTest\\EFTest\\Models\\Course.cs",
               "RelativeDocumentMoniker": "EFTest\\Models\\Course.cs",
@@ -136,12 +169,11 @@
               "RelativeToolTip": "EFTest\\Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T00:40:45.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T00:40:45.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "C:\\Users\\371153\\Downloads\\BD2\\AUla2\\EFTest\\EFTest\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "EFTest\\Models\\Enrollment.cs",
@@ -149,21 +181,24 @@
               "RelativeToolTip": "EFTest\\Models\\Enrollment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T00:31:46.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T00:31:46.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\371153\\Downloads\\BD2\\AUla2\\EFTest\\EFTest\\Models\\Student.cs",
               "RelativeDocumentMoniker": "EFTest\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\371153\\Downloads\\BD2\\AUla2\\EFTest\\EFTest\\Models\\Student.cs",
               "RelativeToolTip": "EFTest\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-09T00:29:33.184Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
