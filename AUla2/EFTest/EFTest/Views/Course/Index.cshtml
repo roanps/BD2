@@ -1,31 +1,27 @@
-﻿@model ICollection<EFTest.Models.Student>
+﻿@model ICollection<EFTest.Models.Course>
 @{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Cursos";
 }
 
 <div class="text-center">
-    <h2 class="display-4">
-        @Model.Count estudantes.
-    </h2>
-    
+    <h1 class="display-4">
+        @Model.Count cursos.
+    </h1>
+
+    <a asp-controller=""></a>
     <table>
-    <thead>
-        <tr>
-            <th>Id</th>
-            <th>Nome</th>
-            <th>Sobrenome</th>
-            <th>Data matrícula</th>
-        </tr>
-    </thead>
-    
-    <tbody>
-        @foreach(var s in Model)
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+        </thead>
+
+        <tbody>
+            @foreach (var s in Model)
             {
                 <tr>
                     <td>@s.ID</td>
-                    <td>@s.FirstMidName</td>
-                    <td>@s.LastName</td>
-                    <td>@s.EnrollmentDate.ToShortDateString()</td>
+                    <td>@s.Name</td>
                     <td>
                         <a asp-controller="Home" asp-action="Edit" class="btn btn-primary" asp-route-id="@s.ID">
                             Editar
@@ -37,5 +33,5 @@
                 </tr>
             }
         </tbody>
-</table>
+    </table>
 </div>
