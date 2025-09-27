@@ -1,0 +1,50 @@
+﻿@model ICollection<ef_teste.Models.Student>
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">
+        @Model.Count students
+        </h1>
+
+        <a class="btn btn-primary" asp-controller="Home" asp-action="Create">Create New Student</a>
+        <table class="table table-responsive table-hover table-striped"> 
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>NOME</th>
+                    <th>SOBRENOME</th>
+                    <th>DATA MATRICULA</th>
+                    <th>EXCLUIR</th>
+                    <th>EDITAR</th>
+                </tr>
+            </thead>
+
+            <tbody>
+            @foreach (var s in Model)
+            {
+                <tr>
+                    <td>@s.Id</td>
+                    <td>@s.FirstMidName</td>
+                    <td>@s.LastName</td>
+                    <td>@s.EnrollmentDate.ToShortDateString()</td>
+                    <td>
+                       <form asp-controller="Home" asp-action="Delete" class="btn btn-secondary" method="post">
+                            <input type="hidden" name="id" value="@s.Id" />
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </td>
+                    <td>
+                        <a class="btn btn-warning btn-sm" asp-controller="Home" asp-action="Edit" class ="btn btn-primary" asp-route-id="@s.Id">Edit</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+                
+        </table>
+
+</div>

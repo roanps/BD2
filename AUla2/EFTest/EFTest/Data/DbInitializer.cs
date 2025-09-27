@@ -4,6 +4,9 @@ using System;
 using System.Linq;
 
 namespace EFTest.Data
+
+//comando para atualizar o banco de dados via terminal: dotnet ef database update
+//
 {
     public static class DbInitializer
     {

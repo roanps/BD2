@@ -1,0 +1,56 @@
+﻿@model ICollection<Student>
+
+  
+@{
+    ViewData["Title"] = "Estudantes/Matriculas"; 
+}
+<div class="text-center">
+    <h1 class="display-4">
+        @Model.Count estudantes/matriculas.
+    </h1>
+    <a asp-controller="Home" asp-action="Create">Novo</a>
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+                <th>Sobrenome</th>
+                <th>Data matrícula</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var s in Model)
+            {
+                <tr>
+                    <td>@s.ID</td>
+                    <td>@s.FirstMidName</td>
+                    <td>@s.LastName</td>
+                    <td>@s.EnrollmentDate.ToShortDateString()</td>
+                    <td>
+                        <a asp-controller="Home" asp-action="Edit" class="btn btn-primary" asp-route-id="@s.ID">
+                            Editar
+                        </a>
+                        <a asp-controller="Home" asp-action="Delete" class="btn btn-primary" asp-route-id="@s.ID">
+                            Excluir
+                        </a>
+                    </td>
+                </tr>
+                @if(s.StudentCourses.Count > 0)
+                {
+                <tr>
+                    <td colspan="5">
+                        <table>
+                            @foreach (var sc in s.StudentCourses)//sc = studentCourse
+                            {
+                                <li>- @sc.COurse?.Name</li>  
+
+                            }
+                        </table>
+                    </td>
+                </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
