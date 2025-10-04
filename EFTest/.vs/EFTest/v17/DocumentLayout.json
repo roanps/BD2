@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\371153\\Downloads\\BD2\\EFTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A152A824-490C-4B2E-8B27-B541A86AD360}|EFTest\\EFTest.csproj|c:\\users\\371153\\downloads\\bd2\\eftest\\eftest\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A152A824-490C-4B2E-8B27-B541A86AD360}|EFTest\\EFTest.csproj|solutionrelative:eftest\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A152A824-490C-4B2E-8B27-B541A86AD360}|EFTest\\EFTest.csproj|c:\\users\\371153\\downloads\\bd2\\eftest\\eftest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A152A824-490C-4B2E-8B27-B541A86AD360}|EFTest\\EFTest.csproj|solutionrelative:eftest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A152A824-490C-4B2E-8B27-B541A86AD360}|EFTest\\EFTest.csproj|c:\\users\\371153\\downloads\\bd2\\eftest\\eftest\\viewmodels\\studentcourses\\studentcoursesviewmodel.cs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A152A824-490C-4B2E-8B27-B541A86AD360}|EFTest\\EFTest.csproj|solutionrelative:eftest\\viewmodels\\studentcourses\\studentcoursesviewmodel.cs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,19 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\371153\\Downloads\\BD2\\EFTest\\EFTest\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "EFTest\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\371153\\Downloads\\BD2\\EFTest\\EFTest\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "EFTest\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:40:15.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\371153\\Downloads\\BD2\\EFTest\\EFTest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EFTest\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\371153\\Downloads\\BD2\\EFTest\\EFTest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EFTest\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-03T23:39:34.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StudentCoursesViewModel.cs",
               "DocumentMoniker": "C:\\Users\\371153\\Downloads\\BD2\\EFTest\\EFTest\\ViewModels\\StudentCourses\\StudentCoursesViewModel.cs",
               "RelativeDocumentMoniker": "EFTest\\ViewModels\\StudentCourses\\StudentCoursesViewModel.cs",
               "ToolTip": "C:\\Users\\371153\\Downloads\\BD2\\EFTest\\EFTest\\ViewModels\\StudentCourses\\StudentCoursesViewModel.cs",
               "RelativeToolTip": "EFTest\\ViewModels\\StudentCourses\\StudentCoursesViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T01:03:52.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\371153\\Downloads\\BD2\\EFTest\\EFTest\\ViewModels\\StudentCourses\\Create.cshtml",
               "RelativeDocumentMoniker": "EFTest\\ViewModels\\StudentCourses\\Create.cshtml",
@@ -47,12 +81,11 @@
               "RelativeToolTip": "EFTest\\ViewModels\\StudentCourses\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-27T00:17:29.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T00:17:29.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "StudentCoursesController.cs",
               "DocumentMoniker": "C:\\Users\\371153\\Downloads\\BD2\\EFTest\\EFTest\\Controllers\\StudentCoursesController.cs",
               "RelativeDocumentMoniker": "EFTest\\Controllers\\StudentCoursesController.cs",
