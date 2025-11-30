@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roan\\Downloads\\BD2\\Atividade2\\Floricultura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A29E9BB3-CFCA-40C8-8116-43D560EE6906}|Floricultura.csproj|c:\\users\\roan\\downloads\\bd2\\atividade2\\floricultura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29E9BB3-CFCA-40C8-8116-43D560EE6906}|Floricultura.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29E9BB3-CFCA-40C8-8116-43D560EE6906}|Floricultura.csproj|c:\\users\\roan\\downloads\\bd2\\atividade2\\floricultura\\controllers\\plantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29E9BB3-CFCA-40C8-8116-43D560EE6906}|Floricultura.csproj|solutionrelative:controllers\\plantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29E9BB3-CFCA-40C8-8116-43D560EE6906}|Floricultura.csproj|c:\\users\\roan\\downloads\\bd2\\atividade2\\floricultura\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A29E9BB3-CFCA-40C8-8116-43D560EE6906}|Floricultura.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29E9BB3-CFCA-40C8-8116-43D560EE6906}|Floricultura.csproj|c:\\users\\roan\\downloads\\bd2\\atividade2\\floricultura\\data\\floriculturacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29E9BB3-CFCA-40C8-8116-43D560EE6906}|Floricultura.csproj|solutionrelative:data\\floriculturacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29E9BB3-CFCA-40C8-8116-43D560EE6906}|Floricultura.csproj|c:\\users\\roan\\downloads\\bd2\\atividade2\\floricultura\\models\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29E9BB3-CFCA-40C8-8116-43D560EE6906}|Floricultura.csproj|solutionrelative:models\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29E9BB3-CFCA-40C8-8116-43D560EE6906}|Floricultura.csproj|c:\\users\\roan\\downloads\\bd2\\atividade2\\floricultura\\migrations\\20251130103143_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29E9BB3-CFCA-40C8-8116-43D560EE6906}|Floricultura.csproj|solutionrelative:migrations\\20251130103143_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 515,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251130103143_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Roan\\Downloads\\BD2\\Atividade2\\Floricultura\\Migrations\\20251130103143_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251130103143_Initial.cs",
+              "ToolTip": "C:\\Users\\Roan\\Downloads\\BD2\\Atividade2\\Floricultura\\Migrations\\20251130103143_Initial.cs",
+              "RelativeToolTip": "Migrations\\20251130103143_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T10:31:43.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Roan\\Downloads\\BD2\\Atividade2\\Floricultura\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Roan\\Downloads\\BD2\\Atividade2\\Floricultura\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-30T10:30:25.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roan\\Downloads\\BD2\\Atividade2\\Floricultura\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Roan\\Downloads\\BD2\\Atividade2\\Floricultura\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T10:30:15.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlantsController.cs",
+              "DocumentMoniker": "C:\\Users\\Roan\\Downloads\\BD2\\Atividade2\\Floricultura\\Controllers\\PlantsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlantsController.cs",
+              "ToolTip": "C:\\Users\\Roan\\Downloads\\BD2\\Atividade2\\Floricultura\\Controllers\\PlantsController.cs",
+              "RelativeToolTip": "Controllers\\PlantsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T10:32:42.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FloriculturaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Roan\\Downloads\\BD2\\Atividade2\\Floricultura\\Data\\FloriculturaContext.cs",
+              "RelativeDocumentMoniker": "Data\\FloriculturaContext.cs",
+              "ToolTip": "C:\\Users\\Roan\\Downloads\\BD2\\Atividade2\\Floricultura\\Data\\FloriculturaContext.cs",
+              "RelativeToolTip": "Data\\FloriculturaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T10:30:07.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Plant.cs",
+              "DocumentMoniker": "C:\\Users\\Roan\\Downloads\\BD2\\Atividade2\\Floricultura\\Models\\Plant.cs",
+              "RelativeDocumentMoniker": "Models\\Plant.cs",
+              "ToolTip": "C:\\Users\\Roan\\Downloads\\BD2\\Atividade2\\Floricultura\\Models\\Plant.cs",
+              "RelativeToolTip": "Models\\Plant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T10:29:28.025Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
