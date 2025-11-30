@@ -23,7 +23,7 @@ namespace EFTest.Controllers
         [HttpGet]
         public async Task<IActionResult> Index()
         {
-            return View(await _studentRepository.GetAll());
+            return View( await _studentRepository.GetAll() );
         }
 
         [HttpPost]

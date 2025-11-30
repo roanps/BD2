@@ -27,21 +27,10 @@ namespace EFTest.Repository
 
         public async Task<List<Student>> GetAll()
         {
-            var data = await _context.Students.Include(sc => sc.StudentCourses!).ThenInclude(c => c.Course).ToListAsync();
-            return data;
-        }
-
-        public async Task<List<Student>> GetAllNotEnrolled()
-        {
-            var enrolledStudenIds = _context.StudentCourses
-                                                .Select(sc => sc.StudentID)
-                                                .Distinct();
             var data = await _context.Students
-                                    .Include(sc => sc.StudentCourses!)
-                                        .ThenInclude(c => c.Course)
-                                    .Where(w => !enrolledStudenIds.Contains(w.ID))
-                                    .OrderBy(s => s.FirstMidName)
-                                    .ToListAsync();
+                                .Include(sc => sc.StudentCourses!)
+                                    .ThenInclude(c => c.Course)
+                                .ToListAsync();
             return data;
         }
 
